@@ -1,0 +1,8 @@
+# Default behavior
+
+# Text file normalization 
+public/** linguist-vendored
+*.svg text
+*.sh text eol=lf
+
+*.py linguist-detectable
