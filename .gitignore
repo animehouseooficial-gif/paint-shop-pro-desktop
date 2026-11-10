@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.mypy_cache/
+*.py[cod]
+.coverage
+.tox/
+.pytest_cache/
